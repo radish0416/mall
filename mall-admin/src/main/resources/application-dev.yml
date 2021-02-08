@@ -25,4 +25,4 @@ logging:
     com.macro.mall: debug
 
 logstash:
-  host: localhost
+  host: 47.97.77.183
